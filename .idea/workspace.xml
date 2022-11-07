@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="932de541-a5d5-4802-800f-1ba8135b25cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/willbooster/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AbstractUiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MainWindowTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/willbooster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/willbooster/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/willbooster/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/willbooster/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MainWindowTest">
+  <component name="RunManager" selected="JUnit.MainWindowTest.testWithDifferingComponentMatchers">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.willbooster.Main" />
       <module name="assertj-swing-example" />
@@ -72,8 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainWindowTest.testWithDifferingComponentMatchers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assertj-swing-example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainWindowTest" />
+      <option name="METHOD_NAME" value="testWithDifferingComponentMatchers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainWindowTest.testWithDifferingComponentMatchers" />
         <item itemvalue="JUnit.MainWindowTest" />
         <item itemvalue="Application.Main" />
       </list>
